@@ -1,0 +1,5 @@
+npx sequelize db:create - Criar o Banco de Dados
+
+npx sequelize migration:create --name=Nome que Voce quiser - Criar um Migration
+
+npx sequelize db:migrate - Rodar Todas as Migrations
